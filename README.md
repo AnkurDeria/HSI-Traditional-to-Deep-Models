@@ -10,6 +10,6 @@ If you have questions or suggestions, please feel free to open an issue. Please 
   year={2021}
 }
 ```
-## Acknowledgement
+# Acknowledgement
 
 Part of this code is from a implementation of Classification of HSI using CNN by [BehnoodRasti](https://github.com/BehnoodRasti/HyFTech-Hyperspectral-Shallow-Deep-Feature-Extraction-Toolbox) and [mhaut](https://github.com/mhaut/hyperspectral_deeplearning_review).
