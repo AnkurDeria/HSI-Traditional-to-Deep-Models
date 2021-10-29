@@ -1,6 +1,4 @@
-# HSI-Traditional-to-Deep-Models
-
-This repository contains the implementations for [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116).
+The repository contains the implementations for [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116).
 
 
 If you have questions or suggestions, please feel free to open an issue. Please cite as:
