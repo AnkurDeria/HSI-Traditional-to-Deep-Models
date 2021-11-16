@@ -14,8 +14,10 @@ If you have questions or suggestions, please feel free to open an issue. Please 
 
 Currently, the following deep learning methods are available:
 
-- [x] [RF](https://ieeexplore.ieee.org/document/1396322)                                 - [x] [MLR](https://ieeexplore.ieee.org/document/5559437)
-- [x] [SVM](https://ieeexplore.ieee.org/document/1323134)                                - [x] [MLP](https://www.sciencedirect.com/science/article/pii/S0924271619302187)
+- [x] [RF](https://ieeexplore.ieee.org/document/1396322)
+- [x] [MLR](https://ieeexplore.ieee.org/document/5559437)
+- [x] [SVM](https://ieeexplore.ieee.org/document/1323134)
+- [x] [MLP](https://www.sciencedirect.com/science/article/pii/S0924271619302187)
 - [x] [RNN](https://ieeexplore.ieee.org/document/8662780)
 - [x] [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs)
 - [x] [GRU](https://arxiv.org/abs/1409.1259v2)
