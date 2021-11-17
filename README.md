@@ -1,15 +1,7 @@
 The repository contains the implementations for [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116).
 
+<img src="HSI_App.jpg"/>
 
-If you have questions or suggestions, please feel free to open an issue. Please cite as:
-```
-@article{ahmad2021hyperspectral,
-  title={Hyperspectral Image Classification--Traditional to Deep Models: A Survey for Future Prospects},
-  author={Muhammad Ahmad, and Sidrah Shabbir, and Swalpa Kumar Roy, and Danfeng Hong, and Xin Wu, and Jing Yao, and Adil Mehmood Khan, and Manuel Mazzara, and Salvatore Distefano, and Jocelyn Chanussot},
-  journal={arXiv preprint arXiv:2101.06116},
-  year={2021}
-}
-```
 ## Models
 
 Currently, the following traditional machine learning methods are available:
@@ -30,6 +22,16 @@ Currently, the following deep learning methods are available:
 - [x] [HybridSN](https://ieeexplore.ieee.org/document/8736016)
 - [x] [MorphCNN](https://ieeexplore.ieee.org/document/9451651)
 
+
+If you have questions or suggestions, please feel free to open an issue. Please cite as:
+```
+@article{ahmad2021hyperspectral,
+  title={Hyperspectral Image Classification--Traditional to Deep Models: A Survey for Future Prospects},
+  author={Muhammad Ahmad, and Sidrah Shabbir, and Swalpa Kumar Roy, and Danfeng Hong, and Xin Wu, and Jing Yao, and Adil Mehmood Khan, and Manuel Mazzara, and Salvatore Distefano, and Jocelyn Chanussot},
+  journal={arXiv preprint arXiv:2101.06116},
+  year={2021}
+}
+```
 
 ## Acknowledgement
 
