@@ -1,6 +1,6 @@
 The repository contains the implementations for [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116).
 
-<img src="HSI_App.jpg"/>
+<img src="HSI_App.png"/>
 
 ## Models
 
