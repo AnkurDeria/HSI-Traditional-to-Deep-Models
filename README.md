@@ -22,6 +22,11 @@ Currently, the following deep learning methods are available:
 - [x] [HybridSN](https://ieeexplore.ieee.org/document/8736016)
 - [x] [MorphCNN](https://ieeexplore.ieee.org/document/9451651)
 
+Currently, the following convolutional feature extractor in deep learning methods are available:
+
+- [x] [G2C-Conv2D](https://ieeexplore.ieee.org/document/9570352)
+- [x] [G2C-Conv3D](https://ieeexplore.ieee.org/document/9570352)
+
 
 If you have questions or suggestions, please feel free to open an issue. Please cite as:
 ```
