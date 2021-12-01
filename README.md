@@ -28,8 +28,9 @@ If you have questions or suggestions, please feel free to open an issue. Please 
 @article{ahmad2021hyperspectral,
   title={Hyperspectral Image Classification--Traditional to Deep Models: A Survey for Future Prospects},
   author={Muhammad Ahmad, and Sidrah Shabbir, and Swalpa Kumar Roy, and Danfeng Hong, and Xin Wu, and Jing Yao, and Adil Mehmood Khan, and Manuel Mazzara, and Salvatore Distefano, and Jocelyn Chanussot},
-  journal={arXiv preprint arXiv:2101.06116},
-  year={2021}
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2021},
+  publisher={IEEE}
 }
 ```
 
