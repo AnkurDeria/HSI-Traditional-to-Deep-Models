@@ -37,7 +37,7 @@ If you have questions or suggestions, please feel free to open an issue. Please 
   year={2022},
   volume={15},
   pages={968-999},
-  doi={[10.1109/JSTARS.2021.3133021](10.1109/JSTARS.2021.3133021)},
+  doi={10.1109/JSTARS.2021.3133021},
   publisher={IEEE}
 }
 ```
