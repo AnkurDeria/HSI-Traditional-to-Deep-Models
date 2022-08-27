@@ -1,6 +1,16 @@
+# Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects
+
+Muhammad Ahmad, Sidrah Shabbir, [Swalpa Kumar Roy](https://swalpa.github.io), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), Xin Wu, Jing Yao, Adil Mehmood Khan, Manuel Mazzara, Salvatore Distefano, and [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
+
+
+Get the disjoint dataset (Trento11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1HK3eL3loI4Wd-RFr1psLLmVLTVDLctGd?usp=sharing).
+___________
+
 The repository contains the implementations for [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://ieeexplore.ieee.org/document/9645266).
 
 <img src="HSI_App.png"/>
+
+---------------------
 
 ## Models
 
