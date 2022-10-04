@@ -2,7 +2,7 @@
 
 Muhammad Ahmad, Sidrah Shabbir, [Swalpa Kumar Roy](https://swalpa.github.io), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), Xin Wu, Jing Yao, Adil Mehmood Khan, Manuel Mazzara, Salvatore Distefano, and [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
 
-## Sample Disjoin Dataset
+## Sample Disjoint Dataset
 
 Get the disjoint dataset (Trento11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1HK3eL3loI4Wd-RFr1psLLmVLTVDLctGd?usp=sharing).
 ___________
