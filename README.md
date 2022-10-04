@@ -2,6 +2,7 @@
 
 Muhammad Ahmad, Sidrah Shabbir, [Swalpa Kumar Roy](https://swalpa.github.io), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), Xin Wu, Jing Yao, Adil Mehmood Khan, Manuel Mazzara, Salvatore Distefano, and [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
 
+___________
 
 Get the disjoint dataset (Trento11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1HK3eL3loI4Wd-RFr1psLLmVLTVDLctGd?usp=sharing).
 ___________
@@ -54,4 +55,4 @@ If you have questions or suggestions, please feel free to open an issue. Please 
 
 ## Acknowledgement
 
-Part of this code is from a implementation of Classification of HSI using CNN by [Gopal Krishna](https://github.com/gokriznastic/HybridSN), [BehnoodRasti](https://github.com/BehnoodRasti/HyFTech-Hyperspectral-Shallow-Deep-Feature-Extraction-Toolbox) and [mhaut](https://github.com/mhaut/hyperspectral_deeplearning_review).
+Part of this code is from a implementation of Classification of HSI using CNN by [Gopal Krishna](https://github.com/gokriznastic/HybridSN), [Behnood Rasti](https://github.com/BehnoodRasti/HyFTech-Hyperspectral-Shallow-Deep-Feature-Extraction-Toolbox) and [Jaun Mario Haut](https://github.com/mhaut/hyperspectral_deeplearning_review).
